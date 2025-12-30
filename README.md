@@ -1,6 +1,7 @@
 # Calculadora-de-Massa-Corporal
 
-Primeiro projeto. 1️⃣ Calcula a massa corporal(IMC), classificando o estado físico da pessoa.⚖️
+Primeiro projeto. 1️⃣ 
+Calcula a massa corporal(IMC), classificando o estado físico da pessoa.⚖️
 
 Ferramentas utilizadas:
 HTML5
