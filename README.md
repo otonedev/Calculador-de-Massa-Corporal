@@ -4,6 +4,7 @@ Primeiro projeto. 1️⃣
 Calcula a massa corporal(IMC), classificando o estado físico da pessoa.⚖️
 
 Ferramentas utilizadas:
+-----------------------
 HTML5
 -----------------------
 CSS3             
